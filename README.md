@@ -23,9 +23,9 @@ and to better understand how interactive systems work beyond the browser.
 
 <p align="center">
   <img src="HTML.svg" width="48" alt="HTML" />
-  <img src="css.svg" width="48" alt="CSS" />
+  <img src="CSS.svg" width="48" alt="CSS" />
   <img src="JavaScript.svg" width="48" alt="JavaScript" />
-  <img src="VueJs-Light.svg" width="48" alt="Vue.js" />
+  <img src="VueJS-Light.svg" width="48" alt="Vue.js" />
   <img src="Unity-Dark.svg" width="48" alt="Unity" />
 </p>
 
