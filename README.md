@@ -29,10 +29,7 @@ and to better understand how interactive systems work beyond the browser.
   <img src="Unity-Dark.svg" width="48" alt="Unity" />
 </p>
 
----
-
-<h3>🧰 Tools</h3>
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" />
