@@ -1,7 +1,7 @@
 ![Header](./background.png)
 
 <h1 align="center">Salem Godfrey here!</h1>
-<h3 align="center">Hi, I'm Dima Eristavi, Frontend Developer</h3>
+<h3 align="center">H! I'm Dimitri Eristavi, Frontend Developer</h3>
 
 ---
 
