@@ -31,8 +31,9 @@ I create clean, interactive web experiences with a focus on usability, performan
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-08253c?logo=adobe-photoshop&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Illustrator-390808?logo=adobe-illustrator&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-08253c?logo=adobe-photoshop&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-390808?logo=adobe-illustrator&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe XD-470137?logo=adobe-xd&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blender-%23eb7700?logo=blender&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spine-ff4000?logo=spine&logoColor=fff&style=for-the-badge" />
 </p>
