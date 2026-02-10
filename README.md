@@ -1,20 +1,14 @@
 ![Header](./background.png)
 
-<h1 align="center">Salem Godfrey</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Salem Godfrey here!</h1>
+<h3 align="center">Hi, I'm Dima Eristavi, Frontend Developer</h3>
 
 ---
 
 <h3>⚠️ About Me</h3>
 
 <p>
-I create clean and interactive web interfaces with a strong focus on usability, performance, and polished UI.
-I enjoy turning ideas into practical, well-structured solutions and constantly improving my skills by learning new tools and approaches.
-</p>
-
-<p>
-Game development is my hobby. I explore it in my free time to experiment with mechanics, atmosphere, and storytelling,
-and to better understand how interactive systems work beyond the browser.
+I create clean, interactive web experiences with a focus on usability, performance, and polished UI. Always looking to learn new technologies and improve myself. In my free time, I explore game development as a hobby, experimenting with mechanics, atmosphere, and storytelling.
 </p>
 
 ---
@@ -54,16 +48,5 @@ and to better understand how interactive systems work beyond the browser.
 
 <h3>📩 Contact</h3>
 
-<p>
-I currently don’t have a public portfolio, but I’m open to communication and collaboration.
-</p>
-
-<p>
-You can reach me via:
-</p>
-
-<p>
-• <a href="https://t.me/s_godfrey11">Telegram</a><br>
-• <a href="mailto:dimaeristavi@gmail.com">Gmail</a><br>
-• <a href="https://www.linkedin.com/in/dimitri-eristavi-43b05723a">LinkedIn</a>
-</p>
+<p>Currently I don’t have a public portfolio, but you can reach out directly if you want to discuss any work or collaboration.<p>
+<p>If you want to reach out, you can contact me through the <a href="https://t.me/s_godfrey11">Telegram</a>, <a href="mailto:dimaeristavi@gmailcom">Gmail</a> and <a href="https://www.linkedin.com/in/dimitri-eristavi-43b05723a">LinkedIn.</a> I’m happy to answer questions, discuss projects, or just connect with fellow developers.</p>
